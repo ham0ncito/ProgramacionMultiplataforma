@@ -25,8 +25,7 @@ if acumuladores[0] != 0 and tipo_numero[0] != 0:
     print(f"\t La sumatoria de los valores negativos es {float(acumuladores[0]):.2f} \n")
 if acumuladores[1] != 0 and tipo_numero[1] != 0:
     print(f"\t El promedio de los valores positivos es {float(acumuladores[1] / tipo_numero[1]):.2f}\n")
-if acumuladores[2] > 0:
-    print(f"\t La sumatoria de los valores 0 es {float(acumuladores[2] / tipo_numero[2]):.2f}.2f")
+if tipo_numero[2] > 0:
+    print(f"\t La cantidad de valores 0 es de {tipo_numero[2]}")
 print("\n Los valores ingresados fueron: ")
-for i in  valores:
-    print("\n {i}")
+print(valores)
