@@ -19,7 +19,4 @@ while(True):
     x = calculadora(num1,num2,opcion_elegida)
     print(f"\n\n \t #### El resultado de su operacion es: {float(x):.2f} ### \n\n\n\t")
     var = str.lower(input("\t Desea realizar otra operacion [s/n] "))
-    if var == "n":
-        exit()
-    else:
-        os.system("cls")
+    var == "n" if exit() else os.system("cls")
