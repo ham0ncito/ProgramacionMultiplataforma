@@ -27,3 +27,22 @@ Se ingreso al archivo el dia Se ingreso al archivo el dia
  Se ingreso al archivo el dia 2022-06-28 19:41:15.151049
  Se ingresaron 5000.0 lempiras el dia 2022-06-28 19:41:15.151049
  Se ingreso al archivo el dia 2022-06-28 19:41:58.056930
+ Se ingreso al archivo el dia 2022-06-28 19:42:46.724632
+ Se ingresaron 500.0 lempiras el dia 2022-06-28 19:42:46.724632
+ Se ingreso al archivo el dia 2022-06-28 19:43:16.305399
+ Se ingresaron 5.0 lempiras el dia 2022-06-28 19:43:16.305399
+ Se ingreso al archivo el dia 2022-06-28 19:44:24.217342
+ Se ingresaron 566.0 lempiras el dia 2022-06-28 19:44:24.217342
+ Se ingreso al banco el dia 2022-06-28 19:46:08.324430
+ Se ingresaron 455.0 lempiras el dia 2022-06-28 19:46:08.324430
+ Se consulto el saldo actual de: (15600, 455.0) lempiras el dia 2022-06-28 19:46:08.324430
+ Se ingreso al banco el dia 2022-06-28 19:48:09.223882
+ Se ingresaron 500.0 lempiras el dia 2022-06-28 19:48:09.223882
+ Se consulto el saldo actual de: 15600 lempiras el dia 2022-06-28 19:48:09.223882
+ Se ingreso al banco el dia 2022-06-28 19:49:26.335286
+ Se ingresaron 500.0 lempiras el dia 2022-06-28 19:49:26.335286
+ Se consulto el saldo actual de: 16100.0 lempiras el dia 2022-06-28 19:49:26.335286
+ Se ingreso al banco el dia 2022-06-28 19:49:59.035043
+ Se retiraron 500000.0 lempiras el dia 2022-06-28 19:49:59.035043
+ Se ingreso al banco el dia 2022-06-28 19:50:16.812555
+ Se retiraron 40000.0 lempiras el dia 2022-06-28 19:50:16.812555
