@@ -11,7 +11,7 @@ def salida(x,y):
         return x
     else:
         print("\t #### No hay saldo suficiente ####")
-        arc.write(f"\n intento realizar un retiro mayor al saldo actual de {x} lempiras el dia {hora}")
+        arc.write(f"\n Se intento realizar un retiro mayor al saldo actual de {x} lempiras el dia {hora}")
 
 with open(cajero[2], 'a') as arc:
     continuar = True
