@@ -3,9 +3,9 @@ class Persona:
     edad = 0
     def mostrar_informacion(self):
         print(f" \n\t Hola {self.nombre}, de {self.edad} anios")
-    def __init__(self):
-        self.nombre = input("Ingrese su nombre")
-        self.edad = input("Ingrese su edad")
+    def informacion (self):
+        self.nombre = input(" Ingrese su nombre: ")
+        self.edad = input(" Ingrese su edad:  ")
 
 class Empleado(Persona):
     sueldo = 0
@@ -16,10 +16,10 @@ class Empleado(Persona):
     def __salario__(self):
         self.sueldo = float(input("Ingrese su salario: "))
 
-Mario = Empleado(Persona)
+Mario = Empleado()
 
-print("\n\t Programa Herencia")
-Mario.__init__()
+print("\n\t Programa Herencia \n")
+Mario.informacion()
 Mario.mostrar_informacion()
 Mario.__salario__()
 Mario.calcular_suelod()
