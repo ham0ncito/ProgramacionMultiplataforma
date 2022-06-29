@@ -54,3 +54,4 @@
  Se ingresaron 5000.0 lempiras el dia 2022-06-28 19:58:12.659303
  Se retiraron 2500.0 lempiras el dia 2022-06-28 19:58:12.659303
  Se consulto el saldo actual de: 18100.0 lempiras el dia 2022-06-28 19:58:12.659303
+ Se ingreso al banco el dia 2022-06-28 20:01:18.453305
