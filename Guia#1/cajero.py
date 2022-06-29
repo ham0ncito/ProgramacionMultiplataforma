@@ -7,9 +7,11 @@ def ingreso(x,y):
 def salida(x,y):
     if y <= x:
         x -= y
+        arc.write(f"\n Se retiraron {y} lempiras el dia {hora}")
         return x
     else:
         print("\t #### No hay saldo suficiente ####")
+        arc.write(f"\n intento realizar un retiro mayor al saldo actual de {x} lempiras el dia {hora}")
 
 with open(cajero[2], 'a') as arc:
     continuar = True
@@ -24,7 +26,6 @@ with open(cajero[2], 'a') as arc:
             cajero[1] = ingreso(float(cajero[1]),cantidad)
         elif op == "2":
             cantidad = float(input(" Ingrese la cantidad a retirar: "))
-            arc.write(f"\n Se retiraron {cantidad} lempiras el dia {hora}")
             cajero[1] = salida(float(cajero[1]), cantidad)
         elif op == "3":
             print(f" \n\t {cajero[0]} su saldo actual es {float(cajero[1]):.2f}")

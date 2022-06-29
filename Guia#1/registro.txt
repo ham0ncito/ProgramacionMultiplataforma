@@ -1,4 +1,3 @@
-Se ingreso al archivo el dia Se ingreso al archivo el dia 
  Se ingreso al archivo el dia 2022-06-28 18:33:32.667419
  Se ingreso al archivo el dia 2022-06-28 19:21:22.031768
  Se ingreso al archivo el dia 2022-06-28 19:23:39.783060
@@ -46,3 +45,4 @@ Se ingreso al archivo el dia Se ingreso al archivo el dia
  Se retiraron 500000.0 lempiras el dia 2022-06-28 19:49:59.035043
  Se ingreso al banco el dia 2022-06-28 19:50:16.812555
  Se retiraron 40000.0 lempiras el dia 2022-06-28 19:50:16.812555
+ Se ingreso al banco el dia 2022-06-28 19:51:56.174987
