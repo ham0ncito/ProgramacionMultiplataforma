@@ -1,5 +1,5 @@
 from datetime import datetime
-import  os
+import os
 cajero = ["Usuario", 15600, "registro.txt"]
 
 def ingreso(x,y):
