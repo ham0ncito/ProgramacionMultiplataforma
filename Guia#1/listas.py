@@ -18,7 +18,7 @@ while(seguir):
         busqueda = lista.index(y)
         del lista[busqueda]
         print("\n\t La nueva lista es la siguiente: ", lista)
-    elif x == 3:
+    elif x == "3":
         print(" \n\t Nos vemooossss ")
         exit()
     else:
