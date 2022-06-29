@@ -1,5 +1,6 @@
-print("\n\t Programa Claves")
 condicional = ["macarronesConQueso22"]
+print("\n\t Programa Claves")
+
 y = 1
 for i in range (3):
     x = str(input(" Ingrese la contrasena: "))
