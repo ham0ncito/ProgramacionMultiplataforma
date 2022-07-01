@@ -1,0 +1,5 @@
+
+	 Nombre 	 Campus 	 Carrera
+	prueba2        	      scj    	   19
+	preubita        	      scj    	   22
+	pruebaa        	      scj    	   10
