@@ -1,0 +1,4 @@
+
+	Codigo 	 Nombre 	 Direccion  Salario
+  1456	Julio Suarez	Col Mirador	 14654.65
+  1236 Wendy Escoto    Col.Sarzal    12,345.20
